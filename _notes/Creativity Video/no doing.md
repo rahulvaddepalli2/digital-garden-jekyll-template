@@ -1,0 +1,4 @@
+---
+---
+
+A growing literature in the psychology of perception has demonstrated that, when it comes to certain difficult visual tasks — exercises where subjects are asked to locate a target shape in the midst of a large array—simply relaxing and letting the answer “pop out” works much better than actively trying. Similarly, when one is stymied by a problem, simply leaving it alone and doing something else is often the best way to solve it. Doing nothing allows your [[subconscious]] to take over, and, as we’ve seen, the unconscious is often better at solving certain types of particularly complex problems.

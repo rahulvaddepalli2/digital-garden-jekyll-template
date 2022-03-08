@@ -1,0 +1,7 @@
+---
+---
+
+[[Wu-wei]] literally translates as “no trying” or “[[no doing]],” but it’s not at all about dull inaction. In fact, it refers to the dynamic, effortless, and unselfconscious state of mind of a person who is optimally active and effective. People in _wu-wei_ feel as if they are doing nothing, while at the same time they might be creating a brilliant work of art, smoothly negotiating a complex social situation, or even bringing the entire world into harmonious order. For a person in _wu-wei_, proper and effective conduct follows as automatically as the body gives in to the seductive rhythm of a song. This state of harmony is both complex and holistic, involving as it does the integration of the body, the emotions, and the mind. If we have to translate it, _wu-wei_ is probably best rendered as something like “effortless action” or “spontaneous action.” Being in _wu-wei_ is relaxing and enjoyable, but in a deeply rewarding way that distinguishes it from cruder or more mundane pleasures.
+
+- It seems remarkably similar to flow.
+- People who are in wu-wei have de typically translated as “virtue,” “power,” or “charismatic power.” This is very similar to what [[David Foster Wallace]] describes in his definiton of a leader.
