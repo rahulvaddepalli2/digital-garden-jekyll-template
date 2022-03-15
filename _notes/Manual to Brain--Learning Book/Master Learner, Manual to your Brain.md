@@ -1,5 +1,5 @@
 ---
-title: Master Learner: Manual to your Brain
+title: Master Learner Manual to your Brain
 ---
 The Why?
 - [[ Why Meta-Learning is important]]
