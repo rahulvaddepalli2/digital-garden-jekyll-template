@@ -1,4 +1,5 @@
 ---
+title: Beginners Mind
 ---
 
 - "In the beginner's mind, there are many possibilities, In the expert's mind, there are few." — Shuryu Suzuki
