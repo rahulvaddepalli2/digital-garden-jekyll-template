@@ -1,4 +1,5 @@
 ---
+title: presence of mind
 ---
 
 - One type of presence of mind, is beginner's mind. The mind that knows nothing. The mind that is a true beginner.

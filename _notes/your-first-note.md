@@ -2,6 +2,8 @@
 title: Your first seed
 ---
 
+How to create a toggle <details markdown='1'><summary>Toggle</summary>
+
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
